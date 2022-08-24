@@ -3,6 +3,13 @@
 - Calculator calculates body mass index
 
 
+
+![Screenshot (85)](https://user-images.githubusercontent.com/60850760/186511341-f1eae056-4535-484d-abdf-e945300854cb.png)
+
+
+![Screenshot (86)](https://user-images.githubusercontent.com/60850760/186511354-1119f3f9-05da-4489-a31c-6645d4d40e81.png)
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
