@@ -1,4 +1,6 @@
-# yarab_isa
+# BMI Calculator
+
+- Calculator calculates body mass index
 
 A new Flutter project.
 
